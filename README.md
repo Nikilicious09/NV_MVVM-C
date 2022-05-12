@@ -1,2 +1,6 @@
 # NV_MVVM-C
-NV_MVVM-C Template, is an MVVM-C Boilerplate generator which will help you generate all the necessary files for your project architected in MVVM-C. 
+
+NV_MVVM-C is a template file generator. This can reduce the time taken to write the boilerplate code and create the files.
+
+## Installation
+
